@@ -2,7 +2,7 @@ package gigasecond
 
 import "time"
 
-const testVersion = 4 // find the value in gigasecond_test.go
+const testVersion = 4
 const gigaSecond = 1000000000
 
 func AddGigasecond(t time.Time) time.Time {
